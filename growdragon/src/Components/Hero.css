@@ -1,0 +1,61 @@
+.hero{
+  margin-top: 4em;
+  margin-left: 12em;
+  line-height: 58px;
+}
+.hero h1 {
+  font-size: 45px;
+  line-height: 78px;
+}
+.hero p{
+  color: #C5C0C7;
+}
+.group1{
+  position: relative;
+  bottom: 1em;
+}
+.group2{
+  position: relative;
+  top: 14em;
+}
+.group3{
+  position: relative;
+  top: 3em;
+  left: 2em;
+}
+.group4{
+  position: relative;
+  top: 17em;
+  right: 8em;
+}
+.flex{
+  position: relative;
+  left: 40em;
+}
+.flex4 {
+  position: relative;
+  bottom: 34em;
+  right: 8em;
+}
+.flex2{
+  position: relative;
+  bottom: 17em;
+}
+.flex1{
+  position: relative;
+  bottom: 17em;
+  right: 2em;
+}
+.flex3{
+  position: relative;
+  bottom: 15em;
+}
+.flexx{
+  position: relative;
+  bottom: 38em;
+}
+.data{
+  position: relative;
+  bottom: 14em;
+  color: #303030;
+}

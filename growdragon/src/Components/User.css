@@ -1,0 +1,11 @@
+.dash{
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  margin-top: 14em;
+  justify-content: space-around;
+}
+.dash h1{
+  font-size: 49px;
+  line-height: 64px;
+}

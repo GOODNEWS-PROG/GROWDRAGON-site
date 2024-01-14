@@ -1,0 +1,90 @@
+.chart{
+  margin-top: -18em;
+  margin-left: 12em;
+}
+.chart p{
+  color: #C5C0C7;
+  line-height: 38px;
+  font-size: 19px;
+}
+/* First box */
+.top{
+  height: 14em;
+  width: 17em;
+  background-color: #FFFFFF;
+  padding: 2em 2em ;
+}
+.top img {
+  height: 7.5em;
+ position: relative;
+ bottom: 5em;
+
+}
+.top h3 {
+  position: relative;
+  bottom: 4em;
+  line-height: 30px;
+}
+.top p {
+  position: relative;
+  bottom: 5em;
+  line-height: 26px;
+}
+
+/* Second boxx */
+
+.tips{
+  height: 16em;
+  width: 17em;
+  background-color: #02C0FC;
+  padding: 3em 2em ;
+  margin-top: -4em;
+}
+.tips img {
+  height: 7.5em;
+ position: relative;
+ bottom: 1em;
+  
+
+}
+.tips h3 {
+  position: relative;
+  bottom: 0.7em;
+  line-height: 30px;
+}
+.tips p {
+  position: relative;
+  bottom: 1em;
+  line-height: 26px;
+}
+
+/* Third Boxxx */
+
+.tap{
+  height: 14em;
+  width: 17em;
+  background-color: #FFFFFF;
+  padding: 2em 2em ;
+}
+.tap img {
+  height: 7.5em;
+ position: relative;
+ bottom: 5em;
+
+}
+.tap h3 {
+  position: relative;
+  bottom: 4em;
+  line-height: 30px;
+}
+.tap p {
+  position: relative;
+  bottom: 5em;
+  line-height: 26px;
+}
+.chat{
+  display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 6em;
+}

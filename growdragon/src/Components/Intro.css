@@ -1,0 +1,48 @@
+.circle{
+  margin-left: 33em;  
+  margin-top: 0.2em;
+}
+
+.circle1{
+  margin-left: 12em;
+}
+.circle2{
+  margin-left: -5em;
+  position: relative;
+  top: 6em;
+}
+.text{
+  margin-left: 48em;
+  margin-top: -25.7em;
+}
+.h11{
+  font-size: 65px;
+}
+.p1{
+  font-size: 23px;
+  
+  color: #9F94A3;
+}
+.btn{
+  padding: 5px 24px;
+  font-size: 25px;
+  align-items: center;
+  display: flex;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+  
+}
+.btn img{
+  height: 1.5em;
+}
+.build{
+  margin-top: 13em;
+  margin-left: 13em;
+  font-size: 16px;
+}
+.p11{
+  font-size: 20px;
+  color: #9F94A3;
+}

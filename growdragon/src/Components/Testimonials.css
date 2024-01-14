@@ -1,0 +1,106 @@
+.test{
+  position: relative;
+  left: 11em;
+  top: 8em;
+}
+.test p{
+  font-size: 18px;
+  line-height: 1.5;
+  color: #C5C0C7;
+}
+.test h1 {
+  color: #170F49;
+}
+.trade{
+  margin-top: 4em;
+}
+
+.moore{
+  height: 12em;
+  width: 27em;
+  background-color: #FFFFFF;
+  padding: 3em 2em;
+  border-radius: 20px;
+}
+.web{
+  position: relative;
+  left: 4.7em;
+  bottom: 4.5em;
+}
+.web p{
+  position: relative;
+  bottom: 1em;
+}
+.moore p{
+  color: #C5C0C7;
+}
+.moore h3{
+  color: #170F49;
+}
+
+/* second box */
+
+.air{
+  height: 12em;
+  width: 27em;
+  background-color: #FFFFFF;
+  padding: 3em 2em;
+  border-radius: 20px;
+  position: relative;
+  bottom: 3em;
+}
+.airs{
+  position: relative;
+  left: 4.7em;
+  bottom: 4.5em;
+}
+.airs p{
+  position: relative;
+  bottom: 1em;
+}
+.air p{
+  color: #C5C0C7;
+}
+.air h3{
+  color: #170F49;
+}
+
+/* third box */
+
+.zap{
+  height: 12em;
+  width: 27em;
+  background-color: #FFFFFF;
+  padding: 3em 2em;
+  border-radius: 20px;
+
+}
+.zaps{
+  position: relative;
+  left: 4.7em;
+  bottom: 4.5em;
+}
+.zaps p{
+  position: relative;
+  bottom: 1em;
+}
+.zap p{
+  color: #C5C0C7;
+}
+.zap h3{
+  color: #170F49;
+}
+
+.testimony{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 4em;
+  
+}
+
+.menu{
+  position: relative;
+  right: 12em;
+  
+}

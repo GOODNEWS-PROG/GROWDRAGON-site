@@ -1,0 +1,67 @@
+.search{
+  display: flex;
+  justify-content: center;
+
+}
+.sub{
+  display: flex;
+  justify-content: center;
+  margin-top: 8em;
+  color: #59547C;
+}
+.email{
+  height: 4.5em;
+  width: 32em;
+  margin-left: 8em;
+  border: none;
+  border-radius: 28px;
+}
+.button{
+  height: 3.5em;
+  width: 8em;
+  border: none;
+  background-color: #27A6FF;
+  color: #ffffff;
+  border-radius: 25px;
+  position: relative;
+  right: 9em;
+  top: 0.7em;
+  cursor: pointer;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 7em;
+}
+.footer h1{
+  font-size: 40px;
+}
+.play{
+  margin-left: 2em;
+}
+.store{
+  margin-top: 4em;
+}
+.qr-code{
+  margin-top: 4em;
+  margin-left: -10em;
+}
+
+.grow p{
+  line-height: 25px;
+  color: #59547C;
+}
+.mov{
+  display: flex;
+  align-items: center;
+ 
+}
+.medias img{
+  height: 3em;
+}
+.medias{
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
